@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo8 -N"C:\Users\NYENTY EYONG\Desktop\stopwash\Stopwatch1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\NYENTY EYONG\Desktop\stopwash\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Stopwatch1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	Stopwatch1.c
+hint: 8	1163	Variable 'rev1' has been declared, but not used	Stopwatch1.c
+diagnostics: 46	123	Compiled Successfully	Stopwatch1.c
+hint: 7	1164	Variable 'rev' has been eliminated by optimizer	Stopwatch1.c
+hint: 4	1164	Variable 'count' has been eliminated by optimizer	Stopwatch1.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RAM (bytes): 6 (12%)  Free RAM (bytes): 46 (88%)	Used RAM (bytes): 6 (12%)  Free RAM (bytes): 46 (88%)
+hint: 0	1144	Used ROM (program words): 83 (8%)  Free ROM (program words): 941 (92%)	Used ROM (program words): 83 (8%)  Free ROM (program words): 941 (92%)
+diagnostics: 0	125	Project Linked Successfully	Stopwatch1.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'Stopwatch1.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 18 May 2022, 11:27:09	Stopwatch1.mcppi
